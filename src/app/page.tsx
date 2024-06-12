@@ -8,7 +8,7 @@ import StatusBadge from "./components/StatusBadge";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
-      <div className="flex gap-2 items-center max-w-[900px] rounded-2xl shadow-lg p-8 my-0">
+      <div className="flex gap-2 items-center max-w-[900px] rounded-2xl shadow-lg p-8 my-0 bg-white z-10">
         <div>
           <h1 className="text-gray-700 mb-8 text-3xl font-semibold">
             You are almost there!
