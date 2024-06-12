@@ -11,7 +11,7 @@ export default function Home() {
       <div className="flex gap-2 items-center max-w-[900px] rounded-2xl shadow-lg p-8 my-0">
         <div>
           <h1 className="text-gray-700 mb-8 text-3xl font-semibold">
-            Your almost there!
+            You are almost there!
           </h1>
           <h2 className="text-gray-700 mb-8 text-2xl font-semibold">
             Complete Your Business Compliance Checklist
